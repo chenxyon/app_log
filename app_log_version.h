@@ -1,0 +1,4 @@
+﻿#ifndef APP_LOG_VERSION_H
+#define APP_LOG_VERSION_H
+#define APP_LOG_VERSION_STRING   "1.0.0"
+#endif /* APP_LOG_VERSION_H */

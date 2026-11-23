@@ -1,0 +1,10 @@
+{
+    "name": "app_log",
+    "version": "1.0.0",
+    "description": "应用日志缓冲组件：拦截 ESP_LOG 输出入环形缓冲，支持 NVS 持久化（AppLog class 单例）",
+    "keywords": "log, buffer, nvs",
+    "author": "chenxyon",
+    "license": "MIT",
+    "frameworks": "espidf",
+    "platforms": ["espressif32"]
+}
